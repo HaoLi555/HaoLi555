@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🌱 I’m currently learning cs
+- 想飞到宇宙去
 <!--
 **HaoLi555/HaoLi555** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
